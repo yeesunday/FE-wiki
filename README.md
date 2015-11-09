@@ -5,3 +5,6 @@
 
 * 面试资料
  * http://www.tuicool.com/articles/YRJJBrE
+
+* 算法
+ * sku 组合算法 http://ued.taobao.org/blog/2012/07/sku-search-algorithm/
