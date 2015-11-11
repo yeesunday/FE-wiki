@@ -1,7 +1,10 @@
 # FE-wiki
 
-* 视频加载
-  * http://www.xuanfengge.com/html5-video-play.html
+* 专题技巧
+  * 视频加载
+    * http://www.xuanfengge.com/html5-video-play.html
+  * 计算中英文混合字符串长度
+    * http://blog.csdn.net/testcs_dn/article/details/21412303
 
 * 面试资料
  * http://www.tuicool.com/articles/YRJJBrE
