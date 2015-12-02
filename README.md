@@ -1,6 +1,9 @@
 # FE-wiki
 
-* 专题技巧
+* 专题
+  * 移动开发
+    * 支付宝无线开发指南 http://am-team.github.io/amg/dev-guild.html 
+* 小技巧
   * 视频加载
     * http://www.xuanfengge.com/html5-video-play.html
   * 计算中英文混合字符串长度
