@@ -5,6 +5,7 @@
    * 支付宝无线开发指南 http://am-team.github.io/amg/dev-guild.html 
    * 适配通用解决方案 https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js
    * 谷歌移动优化指南 https://developers.google.com/speed/docs/insights/mobile
+   * webview 调试环境解决方案 http://web.jobbole.com/84128/
   * 页面优化
    * 评价页面性能 http://taobaofed.org/blog/2015/11/09/web-performance/ 
 
@@ -20,6 +21,7 @@
 * JS
  * JavaScript 函数节流与函数去抖 http://blog.csdn.net/dyllove98/article/details/9281507
  * 异步编程 http://segmentfault.com/a/1190000003028634
+ * 理解 jQuery 插件编写 http://blog.jobbole.com/30550/
  
 * HTTP2 
  * https://imququ.com/post/http2-resource.html 
