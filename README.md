@@ -2,12 +2,13 @@
 
 * 专题
   * 移动开发
-   * 支付宝无线开发指南 http://am-team.github.io/amg/dev-guild.html 
-   * 适配通用解决方案 https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js
-   * 谷歌移动优化指南 https://developers.google.com/speed/docs/insights/mobile
-   * webview 调试环境解决方案 http://web.jobbole.com/84128/
+    * 支付宝无线开发指南 http://am-team.github.io/amg/dev-guild.html 
+    * 适配通用解决方案 https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js
+    * 谷歌移动优化指南 https://developers.google.com/speed/docs/insights/mobile
+    * webview 调试环境解决方案 http://web.jobbole.com/84128/
+    * webapp 优化整理 http://www.cnblogs.com/yexiaochai/p/3759959.html
   * 页面优化
-   * 评价页面性能 http://taobaofed.org/blog/2015/11/09/web-performance/ 
+    * 评价页面性能 http://taobaofed.org/blog/2015/11/09/web-performance/ 
 
 * 小技巧
   * 视频加载
