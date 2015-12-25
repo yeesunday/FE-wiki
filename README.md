@@ -7,6 +7,7 @@
     * 谷歌移动优化指南 https://developers.google.com/speed/docs/insights/mobile
     * webview 调试环境解决方案 http://web.jobbole.com/84128/
     * webapp 优化整理 http://www.cnblogs.com/yexiaochai/p/3759959.html
+    * 移动开发指南 http://www.html-js.com/article/Front-end-sharing%202983
   * 页面优化
     * 评价页面性能 http://taobaofed.org/blog/2015/11/09/web-performance/ 
 
@@ -30,3 +31,5 @@
 * 面试资料
  * http://www.tuicool.com/articles/YRJJBrE
  
+* 其他
+  * [git flow](https://ihower.tw/blog/archives/5140)
