@@ -8,6 +8,7 @@
     * webview 调试环境解决方案 http://web.jobbole.com/84128/
     * webapp 优化整理 http://www.cnblogs.com/yexiaochai/p/3759959.html
     * 移动开发指南 http://www.html-js.com/article/Front-end-sharing%202983
+    * [真机调试]（http://segmentfault.com/a/1190000002565572）
   * 页面优化
     * 评价页面性能 http://taobaofed.org/blog/2015/11/09/web-performance/ 
 
