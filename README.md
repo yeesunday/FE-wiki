@@ -32,5 +32,8 @@
 * 面试资料
  * http://www.tuicool.com/articles/YRJJBrE
  
+* 工具
+  * [sublime 主题](https://github.com/equinusocio/material-theme)
+
 * 其他
   * [git flow](https://ihower.tw/blog/archives/5140)
